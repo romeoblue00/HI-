@@ -1,0 +1,6 @@
+{
+  "name": "TheLittle75 — Le guide photo du Paris à l'abri",
+  "description": "Guide photographique et intimiste du Paris discret : cours pavées, passages dérobés, jardins secrets et parenthèses calmes à deux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
